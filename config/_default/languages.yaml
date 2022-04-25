@@ -1,0 +1,31 @@
+# Languages
+#   Create a section for each of your site's languages.
+#   Documentation: https://wowchemy.com/docs/guide/language/
+
+# Default language
+en:
+  languageCode: en-us
+  # contentDir: content/en
+
+
+
+# zh:
+#   languageCode: zh-Hans
+#   contentDir: content/zh
+    # menu:
+    #   main:
+    #     - name: 成员
+    #       url: people
+    #       weight: 10
+    #     - name: 平台
+    #       url: event
+    #       weight: 30
+    #     - name: 出版物
+    #       url: publication
+    #       weight: 40
+    #     - name: 消息
+    #       url: post
+    #       weight: 20
+    #     - name: 加入
+    #       url: contact
+    #       weight: 50
