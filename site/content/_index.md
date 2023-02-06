@@ -1,20 +1,17 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: "SATRAI Living Lab"
+subtitle: Smart spAces using IoT, middlewaRe, and AI
+image: /img/cropped-Etoile-incubateur-IMT-Starter-min-1-2.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Welcome to the SATRAI lab website
+    text: "Welcome to the SATRAI Living Lab, a research laboratory at the forefront of exploring the integration of IoT, middleware, and AI in smart spaces. Our user-centric, open innovation ecosystem is dedicated to the co-creation and experimentation of sustainable solutions in real-life environments.
+
+    We are proud to be a part of the IoT community and strive to create innovative solutions that have real-world impact. Our goal is to create smart spaces that are not only technologically advanced, but also accessible and beneficial to everyone.
+
+    Thank you for visiting our website, and we look forward to sharing our research and discoveries with you.""
 intro:
     heading: "What we offer"
     text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
-products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
-values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+
 ---
 
